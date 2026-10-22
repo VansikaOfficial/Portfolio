@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#EEF2FF"/>
+  <rect x="40" y="40" width="720" height="520" fill="none" stroke="#6366F1" stroke-width="6"/>
+  <text x="400" y="280" font-family="Arial, sans-serif" font-size="36" fill="#4338CA" text-anchor="middle">Certificate Placeholder</text>
+  <text x="400" y="330" font-family="Arial, sans-serif" font-size="18" fill="#6366F1" text-anchor="middle">Replace this image from the Admin Dashboard</text>
+</svg>

@@ -1,0 +1,14 @@
+node_modules/
+dist/
+logs/
+.env
+.env.local
+.env.*.local
+.env.example
+.dockerignore
+uploads/*
+!uploads/.gitkeep
+!uploads/placeholder-certificate.svg
+*.log
+.DS_Store
+coverage/
